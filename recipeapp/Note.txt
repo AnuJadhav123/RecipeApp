@@ -1,0 +1,7 @@
+* SASS(Syntactically Awesome StyleSheet)
+      Sass is an extension to CSS. Sass is a CSS pre-processor. Sass is completely compatible with all versions of CSS.
+
+* Why We Use SASS
+- It helps you organize and modularize your stylesheets.
+- Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.
+- and also makes it easy to share design within across projects.
